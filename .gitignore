@@ -1,0 +1,18 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.py[cod]
+
+# Runtime data
+chroma_db/
+processed_files.json
+uploaded_document.pdf
+
+# Source documents
+*.pdf
+
+# Test and tooling caches
+.pytest_cache/
+.ruff_cache/
+.vscode/
